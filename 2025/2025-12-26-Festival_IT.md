@@ -175,7 +175,7 @@
   </tr>
   <tr>
     <td>Simone Rolfi</td>
-    <td>346 575 5408</td>
+    <td>3465755408</td>
     <td><a href="mailto:info@cavalliesegugi.com">info@cavalliesegugi.com</a>
     </td>
   </tr>
