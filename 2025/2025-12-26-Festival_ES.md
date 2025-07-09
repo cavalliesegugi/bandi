@@ -1,5 +1,7 @@
 # 37° Festival "Comune di Robecchetto con Induno"
 
+<div align="center"><img src="../marchio_festival.png" alt="Festival RCI" /></div>
+
 ### REGLAMENTO
 
 - La manifestación, realizada con el patrocinio del [ayuntamiento de Robecchetto con Induno](http://www.comune.robecchetto-con-induno.mi.it/) y la contribución de la [sociedad Ecologica Naviglio](http://www.ecologicanaviglio.it), comprende tres torneos de ajedrez válidos para la actualización del puntaje Elo Estándar FIDE.

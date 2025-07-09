@@ -1,5 +1,7 @@
 # 37° Festival "Comune di Robecchetto con Induno"
 
+<div align="center"><img src="../marchio_festival.png" alt="Festival RCI" /></div>
+
 ### REGLEMENT
 
 - Die Veranstaltung, die unter der Schirmherrschaft der [Gemeinde Robecchetto con Induno](http://www.comune.robecchetto-con-induno.mi.it/) und mit dem Beitrag der [Società Ecologica Naviglio](http://www.ecologicanaviglio.it) durchgeführt wird, umfasst drei Schachturniere, die für die Aktualisierung der FIDE-Standard-Elo-Punkte gültig sind.

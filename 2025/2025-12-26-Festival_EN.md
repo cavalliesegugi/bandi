@@ -1,5 +1,7 @@
 # 37th Festival "Comune di Robecchetto con Induno"
 
+<div align="center"><img src="../marchio_festival.png" alt="Festival RCI" /></div>
+
 ### REGULATIONS
 
 - The event, organized with the patronage of the [municipality of Robecchetto con Induno](http://www.comune.robecchetto-con-induno.mi.it/) and the contribution of [Ecologica Naviglio company](http://www.ecologicanaviglio.it), includes three chess tournaments valid for updating the FIDE Standard Elo rating.
