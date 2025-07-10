@@ -144,9 +144,7 @@
     <td>coupe à la mémoire de Graziella Monzeglio</td>
   </tr>
   <tr>
-    <td colspan="4">
-      * non cumulables
-    </td>
+    <td colspan="4">(*) non cumulables</td>
   </tr>
 </table>
 

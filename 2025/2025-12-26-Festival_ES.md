@@ -144,9 +144,7 @@
     <td>copa en memoria de Graziella Monzeglio</td>
   </tr>
   <tr>
-    <td colspan="4">
-      * no acumulables
-    </td>
+    <td colspan="4">(*) no acumulables</td>
   </tr>
 </table>
 

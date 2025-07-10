@@ -144,9 +144,7 @@
     <td>Pokal zum Gedenken an Graziella Monzeglio</td>
   </tr>
   <tr>
-    <td colspan="4">
-      * nicht kumulierbar
-    </td>
+    <td colspan="4">(*) nicht kumulierbar</td>
   </tr>
 </table>
 

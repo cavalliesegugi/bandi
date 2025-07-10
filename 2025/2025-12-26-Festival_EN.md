@@ -144,9 +144,7 @@
     <td>trophy in memory of Graziella Monzeglio</td>
   </tr>
   <tr>
-    <td colspan="4">
-      * not cumulative
-    </td>
+    <td colspan="4">(*) not cumulative</td>
   </tr>
 </table>
 
