@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <th>KATEGORIEPREISE (*)</th>
-    <th>MAGISTRALE</th>
+    <th>MEISTER</th>
     <th>OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
