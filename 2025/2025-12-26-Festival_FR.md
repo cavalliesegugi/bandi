@@ -79,7 +79,7 @@
 <table>
   <tr>
     <th>CLASSEMENT</th>
-    <th>MAGISTRALE</th>
+    <th>MAGISTRAL</th>
     <th>OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
