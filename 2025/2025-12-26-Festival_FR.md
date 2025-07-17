@@ -13,7 +13,7 @@
 <table>
   <tr>
     <th>DATE</th>
-    <th>MAGISTRALE & OPEN FIDE A</th>
+    <th>MAGISTRAL & OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
   <tr>
@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <th>PRIX DE CATÉGORIE (*)</th>
-    <th>MAGISTRALE</th>
+    <th>MAGISTRAL</th>
     <th>OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
@@ -153,7 +153,7 @@
 <table>
   <tr>
     <td></td>
-    <th>MAGISTRALE & OPEN FIDE A</th>
+    <th>MAGISTRAL & OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
   <tr>
@@ -196,7 +196,7 @@ Hôtel Restaurant DA MARIUCCIA via don Pozzi 43 à Malvaglio di Robecchetto con 
 
 <table>
   <tr>
-    <th>MAGISTRALE</th>
+    <th>MAGISTRAL</th>
     <th>OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
@@ -211,7 +211,7 @@ Hôtel Restaurant DA MARIUCCIA via don Pozzi 43 à Malvaglio di Robecchetto con 
 
   <table>
     <tr>
-    <th>MAGISTRALE</th>
+    <th>MAGISTRAL</th>
     <th>OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
