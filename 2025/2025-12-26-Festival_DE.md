@@ -153,7 +153,7 @@
 <table>
   <tr>
     <td></td>
-    <th>MAGISTRALE & OPEN FIDE A</th>
+    <th>MEISTER & OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
   <tr>
