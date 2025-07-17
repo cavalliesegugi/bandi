@@ -13,7 +13,7 @@
 <table>
   <tr>
     <th>DATUM</th>
-    <th>MAGISTRALE & OPEN FIDE A</th>
+    <th>MEISTER & OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
   <tr>
