@@ -1,4 +1,4 @@
-# 37<sup style="font-size:smaller">e</sup> Festival "Comune di Robecchetto con Induno"
+# 37ˑ Festival "Comune di Robecchetto con Induno"
 
 <div align="center"><img src="../marchio_festival.png" alt="Festival RCI" /></div>
 
