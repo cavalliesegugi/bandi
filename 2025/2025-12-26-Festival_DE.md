@@ -211,7 +211,7 @@ Hotel Restaurant DA MARIUCCIA in der Via don Pozzi 43 in Malvaglio di Robecchett
 
   <table>
     <tr>
-    <th>MAGISTRALE</th>
+    <th>MEISTER</th>
     <th>OPEN FIDE A</th>
     <th>OPEN FIDE B</th>
   </tr>
