@@ -1,4 +1,4 @@
-# 37е Festival "Comune di Robecchetto con Induno"
+# 37ҽ Festival "Comune di Robecchetto con Induno"
 
 <div align="center"><img src="../marchio_festival.png" alt="Festival RCI" /></div>
 
