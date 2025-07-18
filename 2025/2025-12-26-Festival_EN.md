@@ -1,6 +1,6 @@
 # 37th Festival "Comune di Robecchetto con Induno"
 
-<div align="center"><img src="../marchio_festival.png" alt="Festival RCI" /></div>
+<div align="center"><img src="marchio_festival.png" alt="Festival RCI" style="max-width: 480px;" /></div>
 
 ### REGULATIONS
 
