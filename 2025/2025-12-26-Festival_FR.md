@@ -52,7 +52,7 @@
     <td>À la fin - Remise des prix</td>
   </tr>
     <tr>
-    <td colspan="2">14:45 - Open Semi-rapide</td>
+    <td colspan="2" align="center">14:45 - Open Semi-rapide</td>
   </tr>
   <tr>
     <th rowspan="3">Lundi 29 décembre 2025</th>

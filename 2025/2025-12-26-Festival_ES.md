@@ -17,7 +17,7 @@
     <th>OPEN FIDE B</th>
   </tr>
   <tr>
-    <th rowspan="3">Viernes 26 diciembre 2025</th>
+    <th rowspan="3">Viernes<br>26 diciembre 2025</th>
     <td>15:15 - cierre inscripciones y control presencias</td>
     <td>14:30 - cierre inscripciones y control presencias</td>
   </tr>
@@ -30,7 +30,7 @@
     <td>17:30 - 2ª ronda</td>
   </tr>
   <tr>
-    <th rowspan="3">Sábado 27 diciembre 2025</th>
+    <th rowspan="3">Sábado<br>27 diciembre 2025</th>
     <td>09:30 - 2ª ronda</td>
     <td>10:30 - 3ª ronda</td>
   </tr>
@@ -43,7 +43,7 @@
     <td>16:30 - 5ª ronda</td>
   </tr>
   <tr>
-    <th rowspan="3">Domingo 28 diciembre 2025</th>
+    <th rowspan="3">Domingo<br>28 diciembre 2025</th>
     <td>09:30 - 4ª ronda</td>
     <td>10:30 - 6ª ronda</td>
   </tr>
@@ -52,10 +52,10 @@
     <td>Al término - Premiaciones</td>
   </tr>
     <tr>
-    <td colspan="2">14:45 - Open Semirrápido</td>
+    <td colspan="2" align="center">14:45 - Open Semirrápido</td>
   </tr>
   <tr>
-    <th rowspan="3">Lunes 29 diciembre 2025</th>
+    <th rowspan="3">Lunes<br>29 diciembre 2025</th>
     <td>09:30 - 5ª ronda</td>
     <td></td>
   </tr>

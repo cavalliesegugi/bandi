@@ -17,7 +17,7 @@
     <th>OPEN FIDE B</th>
   </tr>
   <tr>
-    <th rowspan="3">Friday, December 26, 2025</th>
+    <th rowspan="3">Friday<br>December 26 2025</th>
     <td>3:15 PM - registration closing and attendance check</td>
     <td>2:30 PM - registration closing and attendance check</td>
   </tr>
@@ -30,7 +30,7 @@
     <td>5:30 PM - 2nd round</td>
   </tr>
   <tr>
-    <th rowspan="3">Saturday, December 27, 2025</th>
+    <th rowspan="3">Saturday<br>December 27 2025</th>
     <td>9:30 AM - 2nd round</td>
     <td>10:30 AM - 3rd round</td>
   </tr>
@@ -43,7 +43,7 @@
     <td>4:30 PM - 5th round</td>
   </tr>
   <tr>
-    <th rowspan="3">Sunday, December 28, 2025</th>
+    <th rowspan="3">Sunday<br>December 28 2025</th>
     <td>9:30 AM - 4th round</td>
     <td>10:30 AM - 6th round</td>
   </tr>
@@ -52,10 +52,10 @@
     <td>At the end - Prize ceremony</td>
   </tr>
     <tr>
-    <td colspan="2">2:45 PM - Open Rapid</td>
+    <td colspan="2" align="center">2:45 PM - Open Rapid</td>
   </tr>
   <tr>
-    <th rowspan="3">Monday, December 29, 2025</th>
+    <th rowspan="3">Monday<br>December 29 2025</th>
     <td>9:30 AM - 5th round</td>
     <td></td>
   </tr>
