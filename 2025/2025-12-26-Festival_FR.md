@@ -183,7 +183,8 @@
 
 ### LIEU DE JEU
 
-Hôtel Restaurant DA MARIUCCIA via don Pozzi 43 à Malvaglio di Robecchetto con Induno.
+Hôtel Restaurant DA MARIUCCIA via don Pozzi 43 à Malvaglio di Robecchetto con Induno.  
+Avec Google Maps, suivez [ce lien](https://maps.app.goo.gl/EJ17uT26dPER2tYz7) ou saisissez le Plus Code **GQGJ+FR**.
 
 - Tél. 0331 875546
 - Fax: 0331 876133

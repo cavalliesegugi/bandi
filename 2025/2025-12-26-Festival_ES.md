@@ -183,7 +183,8 @@
 
 ### SEDE DE JUEGO
 
-Hotel Restaurante DA MARIUCCIA en vía don Pozzi 43 en Malvaglio di Robecchetto con Induno.
+Hotel Restaurante DA MARIUCCIA en vía don Pozzi 43 en Malvaglio di Robecchetto con Induno.  
+Con Google Maps, sigue [este enlace](https://maps.app.goo.gl/EJ17uT26dPER2tYz7) o introduce el Plus Code **GQGJ+FR**.
 
 - Tel. 0331 875546
 - Fax: 0331 876133

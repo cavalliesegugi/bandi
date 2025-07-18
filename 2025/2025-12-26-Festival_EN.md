@@ -183,7 +183,8 @@
 
 ### VENUE
 
-Hotel Restaurant DA MARIUCCIA at via don Pozzi 43 in Malvaglio di Robecchetto con Induno.
+Hotel Restaurant DA MARIUCCIA at via don Pozzi 43 in Malvaglio di Robecchetto con Induno.  
+On Google Maps follow [this link](https://maps.app.goo.gl/EJ17uT26dPER2tYz7) or enter the Plus Code **GQGJ+FR**.
 
 - Tel. 0331 875546
 - Fax: 0331 876133
