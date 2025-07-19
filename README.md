@@ -1,6 +1,6 @@
 # Cavalli&Segugi - I bandi dei nostri tornei
 
-Bandi ufficiali dei tornei organizzati dal Circolo Scacchistico Cavalli&amp;Segugi.
+Bandi ufficiali dei tornei organizzati dal [Circolo Scacchistico Cavalli&amp;Segugi](https://www.cavalliesegugi.com).
 
 ## In evidenza: Festival "Comune di Robecchetto con Induno" 2025
 
