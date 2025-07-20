@@ -227,3 +227,269 @@ Avec Google Maps, suivez [ce lien](https://maps.app.goo.gl/EJ17uT26dPER2tYz7) ou
 - Les joueurs étrangers sans numéro FIDE ID (FIN) ne seront pas admis.
 
 Pour tout ce qui n'est pas prévu dans le présent règlement-appel d'offres, les normes du Règlement International de la FIDE et du Règlement Technique de la FSI en vigueur s'appliquent. L'inscription à la manifestation implique l'acceptation totale et inconditionnelle du règlement-appel d'offres et d'éventuelles modifications qui s'avéreraient nécessaires pour le bon déroulement de la manifestation.
+
+### PALMARÈS
+
+<table>
+<tbody>
+<tr>
+<th>Édition</th>
+<th>Date</th>
+<th>Pays</th>
+<th>Vainqueur</th>
+<th>Participants</th>
+</tr>
+<tr>
+<th>1</th>
+<td>26-31/12/1988</td>
+<td>🇮🇹</td>
+<td>Valerio Luciani (VR)</td>
+<td>46</td>
+</tr>
+<tr>
+<th>2</th>
+<td>26-31/12/1990</td>
+<td>🇮🇹</td>
+<td>Enzo Bove (CO)</td>
+<td>58</td>
+</tr>
+<tr>
+<th>3</th>
+<td>26-31/12/1991</td>
+<td>🇳🇱</td>
+<td>Wim Koster (NED)</td>
+<td>103</td>
+</tr>
+<tr>
+<th>4</th>
+<td>26-31/12/1992</td>
+<td>🇮🇹</td>
+<td>Fabio Bellini (VA)</td>
+<td>95</td>
+</tr>
+<tr>
+<th>5</th>
+<td>26-30/12/1993</td>
+<td>🇧🇦</td>
+<td>Sahbaz Nurkic (BIH)</td>
+<td>128</td>
+</tr>
+<tr>
+<th>6</th>
+<td>27-30/12/1994</td>
+<td>🇮🇹</td>
+<td>Fabio Bellini (VA)</td>
+<td>117</td>
+</tr>
+<tr>
+<th>7</th>
+<td>22-25/06/1995</td>
+<td>🇷🇸</td>
+<td>Milorad Vujovic (YUG)</td>
+<td>90</td>
+</tr>
+<tr>
+<th>8</th>
+<td>24-30/06/1996</td>
+<td>🇭🇷</td>
+<td>Milan Mrdja (CRO)</td>
+<td>100</td>
+</tr>
+<tr>
+<th>9</th>
+<td>04-12/01/1997</td>
+<td>🇮🇹</td>
+<td>Alberto Colombo (VA)</td>
+<td>72</td>
+</tr>
+<tr>
+<th>10</th>
+<td>26-29/06/1997</td>
+<td>🇭🇷</td>
+<td>Ante Jurkovic (CRO)</td>
+<td>106</td>
+</tr>
+<tr>
+<th>11</th>
+<td>02-05/01/1998</td>
+<td>🇮🇹</td>
+<td>Davide Sgnaolin (VA)</td>
+<td>76</td>
+</tr>
+<tr>
+<th>12</th>
+<td>02-05/01/1999</td>
+<td>🇷🇴</td>
+<td>Georghe Ciolac (ROU)</td>
+<td>102</td>
+</tr>
+<tr>
+<th>13</th>
+<td>02-05/01/2000</td>
+<td>🇧🇬</td>
+<td>Ventzislav Inkiov (BUL)</td>
+<td>69</td>
+</tr>
+<tr>
+<th>14</th>
+<td>26-29/12/2002</td>
+<td>🇮🇹</td>
+<td>Emiliano Aranovitch (VA)</td>
+<td>76</td>
+</tr>
+<tr>
+<th>15</th>
+<td>27-29/12/2004</td>
+<td>🇭🇷</td>
+<td>Milan Mrdja (CRO)</td>
+<td>64</td>
+</tr>
+<tr>
+<th>16</th>
+<td>27-29/12/2005</td>
+<td>🇷🇸</td>
+<td>Zivojin Ljubisavljevic (SCG)</td>
+<td>52</td>
+</tr>
+<tr>
+<th>17</th>
+<td>27-29/12/2006</td>
+<td>🇷🇸</td>
+<td>Andjelko Dragojlovic (SCG)</td>
+<td>63</td>
+</tr>
+<tr>
+<th>18</th>
+<td>27-30/12/2007</td>
+<td>🇮🇹</td>
+<td>Angelo Damia (MI)</td>
+<td>78</td>
+</tr>
+<tr>
+<th>19</th>
+<td>27-30/12/2008</td>
+<td>🇵🇭</td>
+<td>Rolly Martinez (PHI)</td>
+<td>97</td>
+</tr>
+<tr>
+<th>20</th>
+<td>27-30/12/2009</td>
+<td>🇮🇹</td>
+<td>Emiliano Aranovitch (VA)</td>
+<td>95</td>
+</tr>
+<tr>
+<th>21</th>
+<td>27-30/12/2010</td>
+<td>🇮🇹</td>
+<td>Loris Cereda (MI)</td>
+<td>109</td>
+</tr>
+<tr>
+<th>22</th>
+<td>27-30/12/2011</td>
+<td>🇮🇹</td>
+<td>Francesco Rambaldi (MI)</td>
+<td>102</td>
+</tr>
+<tr>
+<th>23</th>
+<td>27-30/12/2012</td>
+<td>🇱🇹</td>
+<td>Virginijus Dambrauskas (LTU)</td>
+<td>106</td>
+</tr>
+<tr>
+<th>24</th>
+<td>27-30/12/2013</td>
+<td>🇨🇺</td>
+<td>Ren&eacute; Marcial Alonso Garcia (CUB)</td>
+<td>96</td>
+</tr>
+<tr>
+<th>25</th>
+<td>26-29/12/2014</td>
+<td>🇮🇹</td>
+<td>Angelo Damia (MI)</td>
+<td>111</td>
+</tr>
+<tr>
+<th>26</th>
+<td>24-26/07/2015</td>
+<td>🇮🇹</td>
+<td>Artem Gilevych (BO)</td>
+<td>78</td>
+</tr>
+<tr>
+<th>27</th>
+<td>26-29/12/2015</td>
+<td>🇭🇷</td>
+<td>Milan Mrdja (CRO)</td>
+<td>101</td>
+</tr>
+<tr>
+<th>28</th>
+<td>26-29/12/2016</td>
+<td>🇮🇹</td>
+<td>Marco Massironi (MI)</td>
+<td>80</td>
+</tr>
+<tr>
+<th>29</th>
+<td>26-29/12/2017</td>
+<td>🇮🇹</td>
+<td>Stefano Yao (TO)</td>
+<td>98</td>
+</tr>
+<tr>
+<th>30</th>
+<td>20-22/07/2018</td>
+<td>🇮🇹</td>
+<td>Sergejs Gromovs (FG)</td>
+<td>103</td>
+</tr>
+<tr>
+<th>31</th>
+<td>26-29/12/2018</td>
+<td>🇭🇷</td>
+<td>Teo Tomulic (CRO)</td>
+<td>110</td>
+</tr>
+<tr>
+<th>32</th>
+<td>26-29/12/2019</td>
+<td>🇮🇳</td>
+<td>J Sai Agni Jeevitesh (IND)</td>
+<td>94</td>
+</tr>
+<tr>
+<th>33</th>
+<td>26-29/12/2021</td>
+<td>🇪🇸</td>
+<td>Bernat Serarols Mabras (ESP)</td>
+<td>75</td>
+</tr>
+<tr>
+<th>34</th>
+<td>26-29/12/2022</td>
+<td>🇭🇷</td>
+<td>Milan Mrdja (CRO)</td>
+<td>100</td>
+</tr>
+<tr>
+<th>35</th>
+<td>26-29/12/2023</td>
+<td>🇮🇹</td>
+<td>Marco Cattaneo (EE)</td>
+<td>95</td>
+</tr>
+<tr>
+<th>36</th>
+<td>26-29/12/2024</td>
+<td>🇱🇹</td>
+<td>Zanas Nainys (CRO)</td>
+<td>104</td>
+</tr>
+</tbody>
+</table>
